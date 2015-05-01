@@ -1,0 +1,18 @@
+Processing by RailsTemplate::HomeController#index as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 3ms (Views: 3.0ms)
+Processing by RailsTemplate::HomeController#index as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 4ms (Views: 3.7ms)
+Processing by RailsTemplate::HomeController#index as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 3ms (Views: 3.1ms)
+Processing by RailsTemplate::HomeController#index as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 3ms (Views: 2.9ms)
+Processing by RailsTemplate::HomeController#index as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 3ms (Views: 3.2ms)
+Processing by RailsTemplate::HomeController#index as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 3ms (Views: 3.0ms)
